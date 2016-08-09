@@ -1,0 +1,11 @@
+Update 2.0
+* Added ability to create a custom GUI
+* Added ability to display console using C#/JavaScript
+Update 1.0
+* Added ability for multicolored printing of text to console
+* Added ability to change the minimum length required for a command suggestion to display
+* Added GameObject manipulation commands to console (WIP)
+Update 0.9.1
+* Fixed requiring slash to work
+* Now accepts arguments inside quotation marks as one argument
+* Fixed bug with arguments always coming up as a string

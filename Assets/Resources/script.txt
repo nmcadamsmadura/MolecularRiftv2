@@ -1,0 +1,15 @@
+hide ribbons
+poi index 1 range 10.0
+poi index 5 range 10.0
+poi index 7 range 100.0
+attchsnd rain poi 5
+attchsnd rail poi 7
+attchsnd brian poi 1
+#Note that the second type in the or statement will create a sequence that the user will go through
+#This function will list the points of interest that the user has already.
+#this will allow the user to add sounds to specfic poi's in the list.
+#poi -list
+#This will attach sound to either a specific vector or a specific atom index.
+#attchsnd ("sound.mp3",Vector3) | ("sound.mp3", int)
+
+

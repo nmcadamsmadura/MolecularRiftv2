@@ -1,0 +1,82 @@
+Initialize engine version: 5.3.0f4 (2524e04062b4)
+[VRDevice] Successfully created device oculus.
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K620 (ID=0x13bb)
+    Vendor:   NVIDIA
+    VRAM:     2017 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\jdmadura\Desktop\MolyRiftEdited\MolecularRift2VR_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\jdmadura\Desktop\MolyRiftEdited\MolecularRift2VR_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\jdmadura\Desktop\MolyRiftEdited\MolecularRift2VR_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\jdmadura\Desktop\MolyRiftEdited\MolecularRift2VR_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\jdmadura\Desktop\MolyRiftEdited\MolecularRift2VR_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\jdmadura\Desktop\MolyRiftEdited\MolecularRift2VR_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\jdmadura\Desktop\MolyRiftEdited\MolecularRift2VR_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\jdmadura\Desktop\MolyRiftEdited\MolecularRift2VR_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\jdmadura\Desktop\MolyRiftEdited\MolecularRift2VR_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\jdmadura\Desktop\MolyRiftEdited\MolecularRift2VR_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\jdmadura\Desktop\MolyRiftEdited\MolecularRift2VR_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\jdmadura\Desktop\MolyRiftEdited\MolecularRift2VR_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\jdmadura\Desktop\MolyRiftEdited\MolecularRift2VR_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading C:\Users\jdmadura\Desktop\MolyRiftEdited\MolecularRift2VR_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+Platform assembly: C:\Users\jdmadura\Desktop\MolyRiftEdited\MolecularRift2VR_Data\Managed\OBDotNet.dll (this message is harmless)
+Loading C:\Users\jdmadura\Desktop\MolyRiftEdited\MolecularRift2VR_Data\Managed\OBDotNet.dll into Unity Child Domain
+Platform assembly: C:\Users\jdmadura\Desktop\MolyRiftEdited\MolecularRift2VR_Data\Managed\SimpleConsole.dll (this message is harmless)
+Loading C:\Users\jdmadura\Desktop\MolyRiftEdited\MolecularRift2VR_Data\Managed\SimpleConsole.dll into Unity Child Domain
+- Completed reload, in  0.069 seconds
+Platform assembly: C:\Users\jdmadura\Desktop\MolyRiftEdited\MolecularRift2VR_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\jdmadura\Desktop\MolyRiftEdited\MolecularRift2VR_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.633226 ms
+Setting up 5 worker threads for Enlighten.
+  Thread -> id: 2928 -> priority: 1 
+  Thread -> id: 153c -> priority: 1 
+  Thread -> id: 251c -> priority: 1 
+  Thread -> id: 1c78 -> priority: 1 
+  Thread -> id: 2948 -> priority: 1 
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+[VRDevice] Successfully created device oculus.
+UnloadTime: 5.603090 ms
+Unity v5.3.0f4, Oculus Utilities v0.1.0, OVRPlugin v0.1.4.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Creating volume controller...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 457.
+Total: 0.332454 ms (FindLiveObjects: 0.031237 ms CreateObjectMapping: 0.022758 ms MarkObjects: 0.256146 ms  DeleteObjects: 0.021866 ms)
+
+Reload Scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.333389 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3469.
+Total: 1.746168 ms (FindLiveObjects: 0.145476 ms CreateObjectMapping: 0.094604 ms MarkObjects: 1.402111 ms  DeleteObjects: 0.103529 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+[VRDevice] Successfully created device oculus.
+UnloadTime: 2.209374 ms
+Unity v5.3.0f4, Oculus Utilities v0.1.0, OVRPlugin v0.1.4.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2065.
+Total: 0.582353 ms (FindLiveObjects: 0.130304 ms CreateObjectMapping: 0.078539 ms MarkObjects: 0.349412 ms  DeleteObjects: 0.023651 ms)
+
+Reload Scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
